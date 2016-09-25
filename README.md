@@ -19,6 +19,9 @@ colleagues would already have thrown me through the window during code reviews.
 
 So yeah, do not dwell on that.
 
+Some code is lacking, because I tweaked some of Unity's standard assets (2DCameraFollower
+  for instance), but it's marginal and does not really needs being kept here.
+
 ## Wadda game aboot?
 
 PartyMaster is a two-player game about a quite common neighboring issue : one
